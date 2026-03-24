@@ -1,4 +1,4 @@
 # Tanmay-Demo
 This is my first Git Repository.
 <br>
-Author - Tanmay
+Author - Tanmay Gupta
